@@ -1,6 +1,7 @@
 {
   "owner": {
-    "username": "nadersgs"
+    "username": "nadersgs",
+    "email": "nadermagdy991@gmail.com"
   },
   "records": {
     "CNAME": "cname.vercel-dns.com"
